@@ -22,7 +22,6 @@ on the page
 
 * Your site should look at least a little nicer than the real Hacker News (Bootstrap!)
 
-* Your site should be hosted on GitHub pages
 
 ## Steps
 
